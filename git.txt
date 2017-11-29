@@ -1,0 +1,7 @@
+#! /bin/bash
+
+git init
+git add .
+git commit -m 'first'
+git remote add origin https://github.com/PhASnBenoit/SuPer2017.git
+git push -u origin master

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[fr]=
+Comment=
+Exec=/opt/SuPer_2015/Projet_SuPer/Projet_SuPer
+GenericName[fr]=
+GenericName=
+Icon=exec
+MimeType=
+Name[fr]=
+Name=
+Path=/opt/SuPer_2015/Projet_SuPer/
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

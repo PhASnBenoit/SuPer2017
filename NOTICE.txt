@@ -1,0 +1,4 @@
+1. Importer le fichier "config_paquet_Linux.xml" dans Yast2 --> Installer ou supprimer des logiciels --> Fichier,Importer...  afin d'installer les paquets nécesaires.
+
+2. Lancer le script d'installation de fichiers (bdd,phpMyadmin,logiciels,services,module Apache).
+
